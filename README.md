@@ -9,5 +9,5 @@ TwitterPublish  Twitter X 推文批量自动发布脚本
 
 ## 有需要加我 直接给你演示
 
-![TempMailbox 界面](wx.png)
+![TempMailbox 界面](wx.jpg)
 
